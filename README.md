@@ -1,8 +1,8 @@
 
 # Fast Defocus Map Estimation
-[Fast Defocus Map Estimation](https://ieeexplore.ieee.org/document/7533103)
-Ding-Jie Chen, Hwann-Tzong Chen, and Long-Wen Chang
-IEEE International Conference on Image Processing (IEEE ICIP). 2016
+[Fast Defocus Map Estimation](https://ieeexplore.ieee.org/document/7533103)  
+Ding-Jie Chen, Hwann-Tzong Chen, and Long-Wen Chang.  
+IEEE International Conference on Image Processing (IEEE ICIP), 2016.
 
 
 ## Notes
