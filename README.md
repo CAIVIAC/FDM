@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # fast_defocus_map
 Fast Defocus Map Estimation
 
@@ -13,3 +14,6 @@ http://www.cs.nthu.edu.tw/~htchen/fdme/
 If you generate data using the code for an academic publication, please cite the above publication. 
 
 The code has been tested on Matlab R2013b on Windows 7. 
+=======
+# FDM
+>>>>>>> 129629d71b50f4183e4f852824ffc46814bd4e22
